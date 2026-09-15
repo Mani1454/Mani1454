@@ -1,6 +1,6 @@
 <!-- Master Head -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Manish%20Kumar&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=AI%2FLLM%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Enterprise%20Automation&descSize=19&descAlign=50&descAlignY=65" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Manish%20Kumar&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%94%20AI%20%26%20Systems%20%7C%20Enterprise%20Automation&descSize=19&descAlign=50&descAlignY=65" alt="Header" width="100%" />
 </div>
 
 <div align="center">
