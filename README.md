@@ -67,16 +67,16 @@
   <table align="center" width="92%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <b>🗣️ AuraSpeak -- Real-Time Voice AI</b> <br/>
-        <a href="https://github.com/Mani1454/auraspeak">
-          <img src="https://img.shields.io/badge/Voice_AI-Sub--500ms_Latency-FF6B6B?style=flat-square" />
+        <b>🗣️ SwaySpeak -- Interactive AI English Tutor</b> <br/>
+        <a href="https://github.com/Mani1454/swayspeak">
+          <img src="https://img.shields.io/badge/Voice_AI-Deepgram_%26_Groq-FF6B6B?style=flat-square" />
         </a>
         &nbsp;
-        <a href="https://auraspeak.onrender.com/">
-          <img src="https://img.shields.io/badge/Demo-Live_Stream-brightgreen?style=flat-square" />
+        <a href="https://swayspeak.onrender.com/">
+          <img src="https://img.shields.io/badge/Demo-Live_Web_App-brightgreen?style=flat-square" />
         </a> <br/>
-        Concurrent speech-to-speech assistant powered by WebSockets, Groq LLM & Deepgram.<br/>
-        Features <b>&lt;500ms latency</b> with interruptible conversational turn-taking.
+        Ultra-low latency conversational English coach with live phrasing corrections.<br/>
+        Features <b>sub-second voice latency</b>, visual cards & instant barge-in.
       </td>
       <td width="50%" align="center" valign="top">
         <b>🤖 Autonomous Infrastructure Agent</b> <br/>
