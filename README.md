@@ -6,7 +6,7 @@
 <div align="center">
   
   <!-- Social & Contact Badges -->
-  <a href="https://manish-kumar-portfolio-gamma.vercel.app/">
+  <a href="https://mani1454.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://manish-kumar-portfolio-gamma.vercel.app/assets/Manish_Kumar_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/Mani1454/Mani1454/main/assets/Manish_Kumar_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download%20PDF-8A2BE2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
   &nbsp;
@@ -67,16 +67,16 @@
   <table align="center" width="92%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <b>🗣️ SwaySpeak -- Interactive AI English Tutor</b> <br/>
-        <a href="https://github.com/Mani1454/swayspeak">
-          <img src="https://img.shields.io/badge/Voice_AI-Deepgram_%26_Groq-FF6B6B?style=flat-square" />
+        <b>🗣️ Speak with Sway · AI English Tutor</b> <br/>
+        <a href="https://github.com/Mani1454/speak-with-sway">
+          <img src="https://img.shields.io/badge/Voice_AI-Deepgram_%26_Groq-FF6B6B?style=flat-square" alt="Speak with Sway source code" />
         </a>
         &nbsp;
-        <a href="https://swayspeak.onrender.com/">
-          <img src="https://img.shields.io/badge/Demo-Live_Web_App-brightgreen?style=flat-square" />
+        <a href="https://speak-with-sway.onrender.com/">
+          <img src="https://img.shields.io/badge/Demo-Live_Web_App-brightgreen?style=flat-square" alt="Try Speak with Sway" />
         </a> <br/>
-        Ultra-low latency conversational English coach with live phrasing corrections.<br/>
-        Features <b>sub-second voice latency</b>, visual cards & instant barge-in.
+        Practice spoken English with Sway, a live AI tutor whose face moves as she speaks.<br/>
+        Get feedback on phrasing and interrupt a reply whenever you want to take a turn.
       </td>
       <td width="50%" align="center" valign="top">
         <b>🤖 Autonomous Infrastructure Agent</b> <br/>
@@ -108,11 +108,11 @@
       <td width="50%" align="center" valign="top">
         <br/>
         <b>⚙️ Enterprise Automation & IT Operations</b> <br/>
-        <a href="https://manish-kumar-portfolio-gamma.vercel.app/#experience">
+        <a href="https://mani1454.github.io/portfolio/#about">
           <img src="https://img.shields.io/badge/Enterprise_AI-ITSM_Workflows-FFD93D?style=flat-square" />
         </a>
         &nbsp;
-        <a href="https://manish-kumar-portfolio-gamma.vercel.app/">
+        <a href="https://mani1454.github.io/portfolio/">
           <img src="https://img.shields.io/badge/Portfolio-View_Details-blue?style=flat-square" />
         </a> <br/>
         Architecting intelligent ticket triage, routing, and operational automation.<br/>
